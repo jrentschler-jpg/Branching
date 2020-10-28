@@ -7,3 +7,9 @@
 * 'git commit -m "Some Message"' - commit current work to local repository
 * 'git log' - show git commit history
 * 'git log --oneline' - show git commit history (compact)
+
+
+### Branching Commands
+* 'git branch' - List branches in current repository
+* 'git branch someBranch' - Create branch 'someBranch'
+* 'git checkout someBranch' - Move to branch 'someBranch'
