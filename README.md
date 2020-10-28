@@ -10,3 +10,4 @@ Summary of useful 'git' commands.
 * 'git commit -m "Some Message"' - commit current work to local repository
 * 'git log' - show git commit history
 * 'git log --oneline' - show git commit history (compact)
+* 'git config -l' - List git configuration 
