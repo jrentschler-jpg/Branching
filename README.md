@@ -1,4 +1,7 @@
-## Git CheatSheet
+## Git Cheat Sheet
+
+
+Summary of useful 'git' commands.
 
 ### Basic Commands
 * 'git init' Intitialize local git repository
